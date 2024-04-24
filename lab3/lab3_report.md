@@ -8,7 +8,7 @@ Lab: Lab2
 Date of create: 24.04.2024
 Date of finished: --.--.2024
 
-1. Создал свой bucket \
+1. Создал свой bucket\
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/34a5bbdb-bba0-4443-9090-d921b31ad343) \
 2. Загрузил 3 фотографии и создал папку Dir1 \
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/6098b0c5-d53a-486a-9144-2c5ad4d4386d) \
