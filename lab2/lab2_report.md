@@ -23,5 +23,5 @@ Date of finished: --.--.2024
 4. Я изменил настройки моего Cloud Run, поменяв порт на 8090. \
 После смены порта на сайте отображается новая версия
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/d9bbe170-1a84-4cb7-9df0-accec23de613)
-А в метриках, можно заметить, что переключение версий показывается на графиках:
+\ А в метриках, можно заметить, что переключение версий показывается на графиках:
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/c9579ccc-ac08-4b8b-ba31-65e370adfe4f)
