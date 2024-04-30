@@ -4,7 +4,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2023/2024
 Group: U4125
 Author: Malanin Sergey Olegovich
-Lab: Lab2
+Lab: Lab3
 Date of create: 24.04.2024
 Date of finished: --.--.2024
 
