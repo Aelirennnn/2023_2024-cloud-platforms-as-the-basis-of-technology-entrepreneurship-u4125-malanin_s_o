@@ -19,14 +19,14 @@ _Итог — 16.61$_
 
 **Тестирование партнёрами:**  
 VM: e2-small 0.5-2 vCPU 2 GB memory — 13.23$  
-SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory — +- 28.98$  
+SQL Cloud: PostgreSQL 1 vCPU 1.7 GB memory — +- 28.98$  
 _Итог — 42.21$_  
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/1bafd689-39e4-40f5-8a8d-f4d93eba9be8)  
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/c44b8611-bcec-4ddc-b885-c75c8c0b5348)  
  
 **Продовое решение:**  
 VM: e2-medium 1-2 vCPU 4 GB memory — 25.46$  
-SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory — +- 66.5$  
+SQL Cloud: PostgreSQL 1 vCPU 3.75 GB memory — +- 66.5$  
 _Итог — 96.91$_  
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/68620082-596d-406e-ae47-bff570bcb2f7)  
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/75e2caab-8961-4801-a09b-64c625a0bd47)  
