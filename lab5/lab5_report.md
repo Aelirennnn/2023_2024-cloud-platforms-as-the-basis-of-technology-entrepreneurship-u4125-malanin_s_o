@@ -20,4 +20,4 @@ Date of finished: --.--.2024
 4. Создал три автоматизации: При создании ветки на GitHub, посвященной тикету, автоматически перемещать тикет в In Progress. При создании PR в dev ветки, посвященной тикету, автоматически перемещать тикет в On Check. При мердже ветки перемещать тикет в Done  
 ![image](https://github.com/Aelirennnn/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-malanin_s_o/assets/125411403/9f1e6def-669c-4aa5-847e-96b335688bf4)  
   
-5. [Ссылка на скринкаст](https://drive.google.com/file/d/1AUzrvXu3Tjwlwi0MQ6yxN-WLGKTp7v8C/view?usp=sharing)  
+5. [Ссылка на скринкаст](https://drive.google.com/file/d/1NAjHwzeXeSOY1PLmUPOyT5k4avAXdlQB/view?usp=sharing)  
